@@ -1,6 +1,0 @@
-- [x] Bewerk introductie tekst korter en persoonlijker maken
-- [x] Vereenvoudig sectie "Manieren om werk te vinden" - maak lijsten korter, gebruik dagelijks taal
-- [x] Bewerk sollicitatietips - maak directer advies, alsof schrijver ervaringen deelt
-- [ ] Korter maken voorbereiding op sollicitatiegesprek
-- [ ] Vereenvoudig contact sectie
-- [ ] Test de pagina na bewerkingen
